@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29009.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessHash v0.5", "..\MessHash v0.5\MessHash\MessHash v0.5.csproj", "{D11863B0-4CD2-4C1D-979D-DA1ABFEFA68F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessHash v0.6", "..\MessHash v0.6\MessHash\MessHash v0.6.csproj", "{361EB960-E136-47E9-B657-4A6DE2DEE88C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D11863B0-4CD2-4C1D-979D-DA1ABFEFA68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D11863B0-4CD2-4C1D-979D-DA1ABFEFA68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D11863B0-4CD2-4C1D-979D-DA1ABFEFA68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D11863B0-4CD2-4C1D-979D-DA1ABFEFA68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361EB960-E136-47E9-B657-4A6DE2DEE88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361EB960-E136-47E9-B657-4A6DE2DEE88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361EB960-E136-47E9-B657-4A6DE2DEE88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361EB960-E136-47E9-B657-4A6DE2DEE88C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
